@@ -1,7 +1,7 @@
 # furniture_vue
 
 #create vue project
-npm create@latest
+npm create vue@latest
 
 #build dist
 npm build
